@@ -56,7 +56,7 @@
 <img src="https://ghstats.dev/api/card?username=NKNakulkumar&show_ring=false&border_radius=2&hide=issues%2Cstreak%2Cweek%2Cavg%2Cgrade" alt="GitHub Stats Card" />
  <br>
  <br>
-<img align="left" src="https://ghstats.dev/api/langs?username=NKNakulkumar&border_radius=2" alt="Top Languages" />
+<img src="https://ghstats.dev/api/langs?username=NKNakulkumar&border_radius=2" alt="Top Languages" />
   <br>
   <br>
   <img src="https://streak-stats.demolab.com?user=NKNakulkumar&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
