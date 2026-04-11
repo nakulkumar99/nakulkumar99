@@ -67,8 +67,3 @@
 ![Snake animation](https://raw.githubusercontent.com/NKNakulkumar/NKNakulkumar/output/github-snake-dark.svg?palette=github-dark)
 
 ###
-
-
-
-
-
