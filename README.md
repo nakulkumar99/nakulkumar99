@@ -57,9 +57,7 @@
  <br>
  <br>
 <img align="left" src="https://ghstats.dev/api/langs?username=NKNakulkumar&border_radius=2" alt="Top Languages" />
- <br>
- <br>
-  <img align="right" src="https://streak-stats.demolab.com?user=NKNakulkumar&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img  src="https://streak-stats.demolab.com?user=NKNakulkumar&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
  <br>
  <br>
  <hr/>
