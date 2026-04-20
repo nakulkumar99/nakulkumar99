@@ -53,7 +53,7 @@
 <br clear="both">
 
 <div align="center">
-<img src="https://ghstats.dev/api/card?username=nakulkumar99 &show_ring=false&border_radius=2&hide=issues%2Cstreak%2Cweek%2Cavg%2Cgrade" alt="GitHub Stats Card" />
+<img src="https://ghstats.dev/api/card?username=nakulkumar99&show_ring=false&border_radius=2&hide=issues%2Cstreak%2Cweek%2Cavg%2Cgrade" alt="GitHub Stats Card" />
  <br>
  <br>
 <img src="https://ghstats.dev/api/langs?username=nakulkumar99&border_radius=2" alt="Top Languages" />
