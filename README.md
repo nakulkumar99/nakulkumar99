@@ -1,6 +1,6 @@
 # Hi there,![Wave animation](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Nakul Kumar
 
-###  
+### 
  
 <p align="left">💻 Passionate on FullStack web development, with a focus on building responsive, visually appealing, and modern web interfaces and designes.</p>
 
